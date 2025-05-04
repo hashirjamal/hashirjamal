@@ -4,7 +4,7 @@
 I'm a passionate Software Engineer with interests in AI, web development, and open-source.
 
 -  I’m currently working on multiple projects across AI and Blockchain
--  I’m well versed with : Node Js, AI APIs, React, NEXT JS and PYTHON
+-  I’m well versed with : Node Js, GenAI, React, NEXT JS and PYTHON
 -  Ask me about: AI, MERN stack, DBMS, and system design
 -  How to reach me: hashirjamal18@gmail.com | [LinkedIn](https://www.linkedin.com/in/hashir-jamal-0a6503214)
 -  Pronouns: he/him
