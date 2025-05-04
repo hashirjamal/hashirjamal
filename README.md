@@ -12,9 +12,12 @@ I'm a passionate Software Engineer with interests in AI, web development, and op
 ## 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![NEXT JS](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=next)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+
 <!-- Add more badges here -->
 
 ## 📈 GitHub Stats
