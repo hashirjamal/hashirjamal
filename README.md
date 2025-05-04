@@ -14,6 +14,7 @@ I'm a passionate Software Engineer with interests in AI, web development, and op
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![NEXT JS](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=next)
 <!-- Add more badges here -->
 
 ## 📈 GitHub Stats
