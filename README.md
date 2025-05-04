@@ -3,9 +3,9 @@
 ##  About Me
 I'm a passionate Software Engineer with interests in AI, web development, and open-source.
 
--  I’m currently working on: `Training Management System` at NED UET
--  I’m learning: NestJS, AI APIs, and WebSocket integrations
-- Ask me about: React, MERN stack, LFS, and system design
+-  I’m currently working on multiple projects across AI and Blockchain
+-  I’m well versed with : NestJS, AI APIs, React, NEXT JS
+-  Ask me about: AI, MERN stack, DBMS, and system design
 -  How to reach me: hashirjamal18@gmail.com | [LinkedIn](https://www.linkedin.com/in/hashir-jamal-0a6503214)
 -  Pronouns: he/him
 
