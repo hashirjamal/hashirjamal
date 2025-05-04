@@ -20,7 +20,7 @@ I'm a passionate Software Engineer with interests in AI, Web Applications, and O
 
 <!-- Add more badges here -->
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats -->
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight) -->
 
 ## 📫 Connect with Me
