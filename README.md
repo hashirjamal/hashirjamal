@@ -1,7 +1,7 @@
 #  Hi, I'm Hashir
 
 ##  About Me
-I'm a passionate Software Engineer with interests in AI, web development, and open-source.
+I'm a passionate Software Engineer with interests in AI, Web Applications, and Open-Source systems.
 
 -  I’m currently working on multiple projects across AI and Blockchain
 -  I’m well versed with : Node Js, GenAI, React, NEXT JS and PYTHON
